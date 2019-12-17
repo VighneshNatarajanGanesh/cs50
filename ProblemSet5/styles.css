@@ -1,0 +1,152 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+header
+{
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.indexheader
+{
+    background-image:url(images/backgrounds/background.jpg);
+    height: 100vh;
+}
+
+.lamborghiniheader
+{
+    background-image:url(images/backgrounds/lamborghinibackground.jpg);
+}
+
+.koenigseggheader
+{
+    background-image:url(images/backgrounds/koenigseggbackground.jpg);
+}
+
+.ferrariheader
+{
+    background-image:url(images/backgrounds/ferraribackground.jpg);
+}
+
+.gap
+{
+    padding: 20px 20px;
+}
+
+.text
+{
+    background: rgb( 0, 0, 0, 0.25);
+    padding: 20px 20px;
+    text-decoration: none;
+    color: #fff;
+    font-family: sans-sherif;
+    letter-spacing: 2px;
+
+}
+
+.nav-bar
+{
+    background: rgb( 0, 0, 0, 0.5);
+    height: 80px;
+}
+
+.lamborghini-nav-bar
+{
+    background: rgb( 244, 112, 34, 0.25);
+    height: 130px;
+}
+
+.koenigsegg-nav-bar
+{
+    background: rgb( 255, 255, 255, 0.25);
+    height: 130px;
+}
+
+.ferrari-nav-bar
+{
+    background: rgb( 255, 0, 0, 0.25);
+    height: 130px;
+}
+
+.logo
+{
+    margin: 10px 0px;
+    height: 60px;
+}
+
+.boxmenu
+{
+    float: left;
+    list-style: none;
+}
+
+.boxmenu li
+{
+    display: block;
+    margin: 10px 5px;
+    height: 40px;
+}
+.boxmenu li a
+{
+    text-decoration: none;
+    color: #fff;
+    padding: 5px 10px;
+    font-family: sans-sherif;
+    letter-spacing: 2px;
+    border: 1px solid #fff;
+
+}
+
+.boxmenu li a:hover
+{
+    background: #fff;
+    transition: 0.4s;
+    color: #000;
+}
+
+a {
+    color: #000;
+    text-decoration: none;
+}
+
+a:hover
+{
+     color:#00A0C6;
+     text-decoration:none;
+     cursor:pointer;
+}
+
+.footer
+{
+    bottom: 0;
+    text-align: center;
+    background: rgb( 0, 0, 0, 0.5);
+    height: 60px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+./
